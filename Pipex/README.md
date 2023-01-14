@@ -5,7 +5,6 @@ Projetos do currículo da escola de engenharia de software 42 São Paulo.
 
 
 
-![common_coren](https://user-images.githubusercontent.com/18141491/211854913-bf188958-765a-4e3f-a371-8b50d4f60357.png)
-
+![pipexe](https://user-images.githubusercontent.com/18141491/212456625-b5546433-1f83-4879-8b7d-da544db7a5c7.png)
 
  
