@@ -1,11 +1,7 @@
 # 42Projects
 Projetos do currículo da escola de engenharia de software 42 São Paulo.
 
+![push_swapn](https://user-images.githubusercontent.com/18141491/212500274-fde08bb1-a20b-4ec2-9b6b-9b5a0cdd115f.png)
 
 
 
-
-![common_coren](https://user-images.githubusercontent.com/18141491/211854913-bf188958-765a-4e3f-a371-8b50d4f60357.png)
-
-
- 
