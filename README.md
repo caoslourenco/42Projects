@@ -9,7 +9,11 @@ This is a repository to store projects from the 42 software engineering school c
 
 ## Começando
 
-Estas instruções fornecerão uma cópia do projeto em execução na sua máquina local para fins de desenvolvimento e teste.
+<a href="https://github.com/CamillaLourenco/42Projects/tree/main/Push_swap">
+  <img src="https://user-images.githubusercontent.com/18141491/212503734-082b9f3f-f381-45be-a771-6e34682383b3.png" class="img-small">
+</a>
+
+
 
 ### Pré-requisitos
 
