@@ -4,6 +4,8 @@
 # 42 Software Engineering Curriculum Projects
 
 Este é um repositório para armazenar projetos do currículo da escola de engenharia de software 42 São Paulo. Aqui você encontrará meus projetos da 42 São Paulo, abrangendo uma variedade de tópicos e habilidades de engenharia de software.
+<div>
+This is a repository to store projects from the 42 software engineering school curriculum in São Paulo. Here you will find my projects from 42 São Paulo, covering a variety of topics and software engineering skills.
 
 ## Começando
 
