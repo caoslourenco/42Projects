@@ -14,7 +14,7 @@ This is a repository to store projects from the 42 software engineering school c
 <a href="https://github.com/CamillaLourenco/42Projects/tree/main/Pipex">
   <img src="![pipexe](https://user-images.githubusercontent.com/18141491/212503826-073de1ec-3e69-497c-b588-72eb369e6078.png)" class="img-small">
 </a>
-  
+  <div>
 <a href="https://github.com/CamillaLourenco/42Projects/tree/main/Push_swap">
   <img src="https://user-images.githubusercontent.com/18141491/212503734-082b9f3f-f381-45be-a771-6e34682383b3.png" class="img-small">
 </a>
