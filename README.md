@@ -7,7 +7,7 @@ Este é um repositório para armazenar projetos do currículo da escola de engen
 <div>
 This is a repository to store projects from the 42 software engineering school curriculum in São Paulo. Here you will find my projects from 42 São Paulo, covering a variety of topics and software engineering skills.
 
-## Começando
+## Fase 1
 
 <div style="display: flex;">
   <a href="https://github.com/CamillaLourenco/42Projects/tree/main/Pipex">
