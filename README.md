@@ -11,6 +11,28 @@ This is a repository to store projects from the 42 software engineering school c
 
 <div style="display: flex;">
   <a href="https://github.com/CamillaLourenco/42Projects/tree/main/libft">
+    <img src="https://user-images.githubusercontent.com/18141491/212504018-93f5dd87-dc45-4791-82aa-92807003bea3.png" class="img-small" style="float: left;">
+  </a>
+  <a href="https://github.com/CamillaLourenco/42Projects/tree/main/gnl">
+    <img src="https://user-images.githubusercontent.com/18141491/212504039-c9b3a020-2fb2-4b69-ade1-06824e849583.png" class="img-small" style="float: left;">
+  </a>
+  <a href="https://github.com/CamillaLourenco/42Projects/tree/main/printf">
+    <img src="https://user-images.githubusercontent.com/18141491/212504189-56fcbae1-1c65-4f30-abf7-da0f0e9cd081.png" class="img-small" style="float: left;">
+  </a>
+  <a href="https://github.com/CamillaLourenco/42Projects/tree/main/borntobe">
+    <img src="https://user-images.githubusercontent.com/18141491/212504264-b05aba78-5907-4082-afd6-38e5359895f6.png" class="img-small" style="float: left;">
+  </a>
+  <a href="https://github.com/CamillaLourenco/42Projects/tree/main/fractol">
+    <img src="https://user-images.githubusercontent.com/18141491/212504341-1ab0247c-b097-4e6d-8dfd-f11c40447b62.png" class="img-small" style="float: left;">
+  </a>
+  <a href="https://github.com/CamillaLourenco/42Projects/tree/main/Pipex">
+    <img src="https://user-images.githubusercontent.com/18141491/212504370-03c9f065-dc90-4b55-9605-d8f73f4b3720.png" class="img-small" style="float: left;">
+  </a>
+</div>
+
+------------------------------------------------------------------0
+<div style="display: flex;">
+  <a href="https://github.com/CamillaLourenco/42Projects/tree/main/libft">
     <img src=" ![libftm](https://user-images.githubusercontent.com/18141491/212504018-93f5dd87-dc45-4791-82aa-92807003bea3.png)" class="img-small" style="float: left;">
   </a>
   <a href="https://github.com/CamillaLourenco/42Projects/tree/main/gnl">
@@ -33,7 +55,7 @@ This is a repository to store projects from the 42 software engineering school c
 " class="img-small" style="float: left;">
   </a>
 </div>
-
+--------------------------------------------7
 
 ## Fase 2
 
