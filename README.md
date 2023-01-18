@@ -17,7 +17,8 @@ Here you will find my projects from 42 São Paulo, covering a variety of topics 
  
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); grid-template-rows: repeat(3, 150px);">
     <a href="https://github.com/CamillaLourenco/42Projects/tree/main/libft">
-        <img src="https://user-images.githubusercontent.com/18141491/212503826-073de1ec-3e69-497c-b588-72eb369e6078.png" class="img-small">
+        <img src="https://user-images.githubusercontent.com/18141491/213202373-98082fd7-6345-4cb7-8d93-62edeef9f4f3.png
+g" class="img-small">
     </a>
     <a href="https://github.com/CamillaLourenco/42Projects/tree/main/gnl">
         <img src="https://user-images.githubusercontent.com/18141491/212504039-c9b3a020-2fb2-4b69-ade1-06824e849583.png" class="img-small">
