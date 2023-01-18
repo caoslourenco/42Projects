@@ -24,10 +24,10 @@ Here you will find my projects from 42 São Paulo, covering a variety of topics 
     </a>
     <a href="https://github.com/CamillaLourenco/42Projects/tree/main/printf">
         <img src="https://user-images.githubusercontent.com/18141491/212504189-56fcbae1-1c65-4f30-abf7-da0f0e9cd081.png" class="img-small">
-        <div>
     </a>
     <a href="https://github.com/CamillaLourenco/42Projects/tree/main/borntobe">
         <img src="https://user-images.githubusercontent.com/18141491/212504264-b05aba78-5907-4082-afd6-38e5359895f6.png" class="img-small">
+                <div>
     </a>
     <a href="https://github.com/CamillaLourenco/42Projects/tree/main/fractol">
         <img src="https://user-images.githubusercontent.com/18141491/212504341-1ab0247c-b097-4e6d-8dfd-f11c40447b62.png" class="img-small">
