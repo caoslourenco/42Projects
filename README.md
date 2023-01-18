@@ -1,5 +1,9 @@
 # 42Projects | - Caution: work in progress - |
-![common_coren](https://user-images.githubusercontent.com/18141491/211854913-bf188958-765a-4e3f-a371-8b50d4f60357.png)
+
+<a href="https://github.com/CamillaLourenco/42Projects">
+    <img src="https://user-images.githubusercontent.com/18141491/211854913-bf188958-765a-4e3f-a371-8b50d4f60357.png" class="img-small">
+</a>
+
 
 # 42 Software Engineering Curriculum Projects
 
