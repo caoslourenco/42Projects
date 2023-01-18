@@ -83,7 +83,8 @@ Here you will find my projects from 42 São Paulo, covering a variety of topics 
 </div>
  
 
-### Pré-requisitos
+ <h2> <font color="blue">Pré-requisitos</font> </h2>
+
 
 Este projeto requer os seguintes softwares:
 - GCC
@@ -93,14 +94,7 @@ Este projeto requer os seguintes softwares:
 
 ### Instalação
 
-Clone o repositório para sua máquina local:
-```sh
-git clone xxxxx.git
-
-```
+Clique na imagem do projeto que deseja ver 
+Click on the image of the project you want to see
 
 
-
-
-
- 
