@@ -59,28 +59,27 @@ Here you will find my projects from 42 São Paulo, covering a variety of topics 
     </a>
 </div>
 
+--------------------------------------------------------------
 
 ## Fase 3
 
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); grid-template-rows: repeat(3, 150px);">
+ <div style="display: grid; grid-template-columns: repeat(2, 1fr); grid-template-rows: repeat(3, 150px);">
     <a href="https://github.com/CamillaLourenco/42Projects/tree/main/cpp">
-        <img src="(https://user-images.githubusercontent.com/18141491/213196688-ef2831ad-d50d-4107-8ab2-69987468e460.png)" style="width:150px; height:150px;">
+        <img src="https://user-images.githubusercontent.com/18141491/213196688-ef2831ad-d50d-4107-8ab2-69987468e460.png" style="width:150px; height:150px;">
     </a>
     <a href="https://github.com/CamillaLourenco/42Projects/tree/main/count">
-        <img src="(https://user-images.githubusercontent.com/18141491/213196780-1752faa0-3fd7-4cf8-bd58-3176cce9b082.png)" style="width:150px; height:150px; style="width:50px; height:50px;">
+        <img src="https://user-images.githubusercontent.com/18141491/213196780-1752faa0-3fd7-4cf8-bd58-3176cce9b082.png" style="width:150px; height:150px;">
     </a>
     <a href="https://github.com/CamillaLourenco/42Projects/tree/main/incep">
-        <img src="(https://user-images.githubusercontent.com/18141491/213196884-8813aa1a-7c4e-4ad6-b770-1e707d854e5c.png)"  style="width:150px; height:150px; style="width:50px; height:50px; style="width:50px; height:50px;">
+        <img src="https://user-images.githubusercontent.com/18141491/213196884-8813aa1a-7c4e-4ad6-b770-1e707d854e5c.png"  style="width:150px; height:150px;">
     </a>
     <a href="https://github.com/CamillaLourenco/42Projects/tree/main/web">
-        <img src="(https://user-images.githubusercontent.com/18141491/213196935-100a4ecd-109c-4405-a431-c8632ec8e544.png)"  style="width:150px; height:150px;">
+        <img src="https://user-images.githubusercontent.com/18141491/213196935-100a4ecd-109c-4405-a431-c8632ec8e544.png"  style="width:150px; height:150px;">
     </a>
     <a href="https://github.com/CamillaLourenco/42Projects/tree/main/trans">
-        <img src="(https://user-images.githubusercontent.com/18141491/213197064-bd602313-f363-432d-8852-c552d6db0a48.png)"  style="width:150px; height:150px;">
+        <img src="https://user-images.githubusercontent.com/18141491/213197064-bd602313-f363-432d-8852-c552d6db0a48.png"  style="width:150px; height:150px;">
     </a>
 </div>
- 
- ----
  
 
 ### Pré-requisitos
