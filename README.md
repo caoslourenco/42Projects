@@ -1,5 +1,9 @@
 # 42Projects | - Caution: work in progress - |
-![common_coren](https://user-images.githubusercontent.com/18141491/211854913-bf188958-765a-4e3f-a371-8b50d4f60357.png)
+
+<a href="https://github.com/CamillaLourenco/42Projects">
+    <img src="https://user-images.githubusercontent.com/18141491/211854913-bf188958-765a-4e3f-a371-8b50d4f60357.png" class="img-small">
+</a>
+
 
 # 42 Software Engineering Curriculum Projects
 
@@ -8,11 +12,10 @@ Aqui você encontrará meus projetos da 42 São Paulo, abrangendo uma variedade 
 <div>
 This is a repository to store projects from the 42 software engineering school curriculum in São Paulo. 
 Here you will find my projects from 42 São Paulo, covering a variety of topics and software engineering skills.
-
 <div>
- <h2>Fase 1</h2>
- 
-</div>
+
+## Fase 1 |``Entrando em órbita``|
+``Completo | Complete``
 
  
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); grid-template-rows: repeat(3, 150px);">
@@ -27,8 +30,8 @@ Here you will find my projects from 42 São Paulo, covering a variety of topics 
     </a>
     <a href="https://github.com/CamillaLourenco/BornToBeRoot">
         <img src="https://user-images.githubusercontent.com/18141491/212504264-b05aba78-5907-4082-afd6-38e5359895f6.png" class="img-small">
-                <div "center">
-                                 ````.................................````
+                <div>
+                                 ``...................................``
     </a>
     <a href="https://github.com/CamillaLourenco/Fractol">
         <img src="https://user-images.githubusercontent.com/18141491/212504341-1ab0247c-b097-4e6d-8dfd-f11c40447b62.png" class="img-small">
@@ -39,7 +42,7 @@ Here you will find my projects from 42 São Paulo, covering a variety of topics 
 </div>
   
 
-## Fase 2
+## Fase 2 |``Ampliando horizontes``|
 
  
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); grid-template-rows: repeat(3, 150px);">
@@ -62,7 +65,7 @@ Here you will find my projects from 42 São Paulo, covering a variety of topics 
 
 --------------------------------------------------------------
 
-## Fase 3
+## Fase 3 |``Explorando o espaço``|
 
  <div style="display: grid; grid-template-columns: repeat(2, 1fr); grid-template-rows: repeat(3, 150px);">
     <a href="https://github.com/CamillaLourenco/42Projects/tree/main/cpp">
