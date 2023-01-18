@@ -14,7 +14,7 @@ This is a repository to store projects from the 42 software engineering school c
 Here you will find my projects from 42 São Paulo, covering a variety of topics and software engineering skills.
 <div>
 
-## Fase 1 ``Entrando em órbita`` 
+## Fase 1 |``Entrando em órbita``|
 ``Completo | Complete``
 
  
@@ -42,7 +42,7 @@ Here you will find my projects from 42 São Paulo, covering a variety of topics 
 </div>
   
 
-## Fase 2
+## Fase 2 |``Ampliando horizontes``|
 
  
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); grid-template-rows: repeat(3, 150px);">
@@ -65,7 +65,7 @@ Here you will find my projects from 42 São Paulo, covering a variety of topics 
 
 --------------------------------------------------------------
 
-## Fase 3
+## Fase 3 |``Explorando o espaço``|
 
  <div style="display: grid; grid-template-columns: repeat(2, 1fr); grid-template-rows: repeat(3, 150px);">
     <a href="https://github.com/CamillaLourenco/42Projects/tree/main/cpp">
