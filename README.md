@@ -95,6 +95,7 @@ Este projeto requer os seguintes softwares:
 ### Instalação
 
 Clique na imagem do projeto que deseja ver 
+                        <div>
 Click on the image of the project you want to see
 
 
