@@ -10,16 +10,13 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-This project requires the following dependencies:
-
-- GCC
-- Make
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 ### Installing
 
 Clone the repository to your local machine:
-```sh
-git clonem git@github.com:CamillaLourenco/42Projects.git
+ 
+git clone https://github.com/CamillaLourenco/Push_swap
 
 
 
