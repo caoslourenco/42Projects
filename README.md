@@ -26,8 +26,8 @@ Here you will find my projects from 42 São Paulo, covering a variety of topics 
     </a>
     <a href="https://github.com/CamillaLourenco/BornToBeRoot">
         <img src="https://user-images.githubusercontent.com/18141491/212504264-b05aba78-5907-4082-afd6-38e5359895f6.png" class="img-small">
-                <div "center">
-                                 ````.................................````
+                <div>
+                                 ``...................................``
     </a>
     <a href="https://github.com/CamillaLourenco/Fractol">
         <img src="https://user-images.githubusercontent.com/18141491/212504341-1ab0247c-b097-4e6d-8dfd-f11c40447b62.png" class="img-small">
