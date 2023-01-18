@@ -9,10 +9,15 @@ Aqui você encontrará meus projetos da 42 São Paulo, abrangendo uma variedade 
 This is a repository to store projects from the 42 software engineering school curriculum in São Paulo. 
 Here you will find my projects from 42 São Paulo, covering a variety of topics and software engineering skills.
 
-## Fase 1
+<div>
+ <h2>Fase 1</h2>
+ 
+</div>
+
+ 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); grid-template-rows: repeat(3, 150px);">
     <a href="https://github.com/CamillaLourenco/42Projects/tree/main/libft">
-        <img src="https://user-images.githubusercontent.com/18141491/212504018-93f5dd87-dc45-4791-82aa-92807003bea3.png" class="img-small">
+        <img src="https://user-images.githubusercontent.com/18141491/212503826-073de1ec-3e69-497c-b588-72eb369e6078.png" class="img-small">
     </a>
     <a href="https://github.com/CamillaLourenco/42Projects/tree/main/gnl">
         <img src="https://user-images.githubusercontent.com/18141491/212504039-c9b3a020-2fb2-4b69-ade1-06824e849583.png" class="img-small">
@@ -34,6 +39,31 @@ Here you will find my projects from 42 São Paulo, covering a variety of topics 
 ------------------------------------------- 
 
 ## Fase 2
+
+ 
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); grid-template-rows: repeat(3, 150px);">
+    <a href="https://github.com/CamillaLourenco/42Projects/tree/main/Push_swap">
+        <img src="https://user-images.githubusercontent.com/18141491/213192271-8ef6cde7-4b00-4f05-aebc-24316cdfac62.png" class="img-small">
+    </a>
+    <a href="https://github.com/CamillaLourenco/42Projects/tree/main/minihell">
+        <img src="https://user-images.githubusercontent.com/18141491/213192395-41225ab8-3c03-4b23-9f6e-cfaa33552a0e.png"class="img-small">
+    </a>
+    <a href="https://github.com/CamillaLourenco/42Projects/tree/main/philo">
+        <img src="https://user-images.githubusercontent.com/18141491/213192465-1f6c7031-4029-4f58-9214-fcad5494d2aa.png" class="img-small">
+    </a>
+    <a href="https://github.com/CamillaLourenco/42Projects/tree/main/net">
+        <img src="https://user-images.githubusercontent.com/18141491/213192604-36c22a93-2c7e-4d50-959f-1266cae52f85.png" class="img-small">
+    </a>
+    <a href="https://github.com/CamillaLourenco/42Projects/tree/main/cub">
+        <img src="https://user-images.githubusercontent.com/18141491/213192693-f77b0f34-bd80-46cd-9f3d-6ebc21efd16d.png" class="img-small">
+    </a>
+</div>
+
+
+
+
+## Fase 3
+
 
 
 <div style="display: flex;">
