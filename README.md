@@ -16,24 +16,24 @@ Here you will find my projects from 42 São Paulo, covering a variety of topics 
 
  
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); grid-template-rows: repeat(3, 150px);">
-    <a href="https://github.com/CamillaLourenco/42Projects/tree/main/libft">
+    <a href="https://github.com/CamillaLourenco/Libft">
         <img src="https://user-images.githubusercontent.com/18141491/213202373-98082fd7-6345-4cb7-8d93-62edeef9f4f3.png" class="img-small">
     </a>
-    <a href="https://github.com/CamillaLourenco/42Projects/tree/main/gnl">
+    <a href="https://github.com/CamillaLourenco/Gnl">
         <img src="https://user-images.githubusercontent.com/18141491/212504039-c9b3a020-2fb2-4b69-ade1-06824e849583.png" class="img-small">
     </a>
-    <a href="https://github.com/CamillaLourenco/42Projects/tree/main/printf">
+    <a href="https://github.com/CamillaLourenco/Ft_printf">
         <img src="https://user-images.githubusercontent.com/18141491/212504189-56fcbae1-1c65-4f30-abf7-da0f0e9cd081.png" class="img-small">
     </a>
-    <a href="https://github.com/CamillaLourenco/42Projects/tree/main/borntobe">
+    <a href="https://github.com/CamillaLourenco/BornToBeRoot">
         <img src="https://user-images.githubusercontent.com/18141491/212504264-b05aba78-5907-4082-afd6-38e5359895f6.png" class="img-small">
                 <div "center">
                                  ````.................................````
     </a>
-    <a href="https://github.com/CamillaLourenco/42Projects/tree/main/fractol">
+    <a href="https://github.com/CamillaLourenco/Fractol">
         <img src="https://user-images.githubusercontent.com/18141491/212504341-1ab0247c-b097-4e6d-8dfd-f11c40447b62.png" class="img-small">
     </a>
-    <a href="https://github.com/CamillaLourenco/42Projects/tree/main/Pipex">
+    <a href="https://github.com/CamillaLourenco/Pipex">
         <img src="https://user-images.githubusercontent.com/18141491/212504370-03c9f065-dc90-4b55-9605-d8f73f4b3720.png" class="img-small">
     </a>
 </div>
