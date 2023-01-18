@@ -8,11 +8,10 @@ Aqui você encontrará meus projetos da 42 São Paulo, abrangendo uma variedade 
 <div>
 This is a repository to store projects from the 42 software engineering school curriculum in São Paulo. 
 Here you will find my projects from 42 São Paulo, covering a variety of topics and software engineering skills.
-
 <div>
- <h2>Fase 1</h2>
- 
-</div>
+
+## Fase 1 ``Entrando em órbita`` 
+``Completo | Complete``
 
  
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); grid-template-rows: repeat(3, 150px);">
