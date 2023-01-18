@@ -42,7 +42,7 @@ Here you will find my projects from 42 São Paulo, covering a variety of topics 
 
  
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); grid-template-rows: repeat(3, 150px);">
-    <a href="https://github.com/CamillaLourenco/42Projects/tree/main/Push_swap">
+    <a href="https://github.com/CamillaLourenco/Push_swap">
         <img src="https://user-images.githubusercontent.com/18141491/213192271-8ef6cde7-4b00-4f05-aebc-24316cdfac62.png"  style="width:150px; height:150px;">
     </a>
     <a href="https://github.com/CamillaLourenco/42Projects/tree/main/minihell">
