@@ -1,18 +1,30 @@
-# 42Projects   |*- Caution: work in progress -*|
-
-<a href="https://github.com/CamillaLourenco/42Projects">
-    <img src="https://user-images.githubusercontent.com/18141491/211854913-bf188958-765a-4e3f-a371-8b50d4f60357.png" class="img-small">
-</a>
+![LinkedIn_banner_game_designer_neon_roxo_e_azul__3_-removebg-preview](https://github.com/caoslourenco/42Projects/assets/18141491/a6bd5ba2-4371-4e55-8b7d-d7fb4569865a)
 
 
-# 42 Software Engineering Curriculum Projects
 
-Este é um repositório para armazenar projetos do currículo da escola de engenharia de software 42 São Paulo.                                      
-Aqui você encontrará meus projetos da 42 São Paulo, abrangendo uma variedade de tópicos e habilidades de engenharia de software.
-<div>
-This is a repository to store projects from the 42 software engineering school curriculum in São Paulo. 
-Here you will find my projects from 42 São Paulo, covering a variety of topics and software engineering skills.
-<div>
+🌌 **Caution: work in progress**
+
+<div align="left">
+
+In the vast expanse of the digital cosmos, where lines of code intertwine like constellations in the night sky, a brave explorer embarks on a quest of discovery. Welcome, fellow traveler, to the 42Projects repository - a celestial sanctuary amidst the vast tapestry of software engineering.
+
+![42Projects](https://user-images.githubusercontent.com/18141491/211854913-bf188958-765a-4e3f-a371-8b50d4f60357.png)
+
+As you journey through this cosmic repository, you will uncover a constellation of projects, each a shining star in the galaxy of my journey through the hallowed halls of 42 São Paulo. These projects, forged in the crucible of learning, bear witness to the relentless pursuit of knowledge and mastery.
+
+This repository serves as a testament to my odyssey through the 42 São Paulo software engineering curriculum - a saga spanning nebulae of topics and skills. From the humble beginnings of introductory projects to the cosmic challenges of advanced endeavors, each project illuminates a different facet of the vast universe of software engineering.
+
+Set sail, intrepid traveler, and chart your course through the astral wonders that await within. Let these projects be your guiding stars as you navigate the cosmic currents of knowledge, exploring new galaxies and unraveling the mysteries of software engineering.
+
+</div>
+
+<div align="left">
+
+Este é um repositório destinado a abrigar os projetos do currículo da escola de engenharia de software 42 São Paulo. Aqui você encontrará meus projetos da 42 São Paulo, abrangendo uma constelação de tópicos e habilidades de engenharia de software.
+
+</div>
+
+***
 
 ## Fase 1 |``Entrando em órbita``|
 ``Completo | Complete``
@@ -41,6 +53,7 @@ Here you will find my projects from 42 São Paulo, covering a variety of topics 
     </a>
 </div>
   
+***
 
 ## Fase 2 |``Ampliando horizontes``|
 
@@ -63,7 +76,7 @@ Here you will find my projects from 42 São Paulo, covering a variety of topics 
     </a>
 </div>
 
---------------------------------------------------------------
+***
 
 ## Fase 3 |``Explorando o espaço``|
 
@@ -89,16 +102,5 @@ Here you will find my projects from 42 São Paulo, covering a variety of topics 
  <h2> <font color="blue">Pré-requisitos</font> </h2>
 
 
-Este projeto requer os seguintes softwares:
-- GCC
-- Make
-- uma máquina virtual (como Virtualbox)
-- Sistema operacional Unix
-
-### Instalação
-
-Clique na imagem do projeto que deseja ver 
-                        <div>
-Click on the image of the project you want to see
 
 
