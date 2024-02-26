@@ -55,21 +55,18 @@ Este é um repositório destinado a abrigar os projetos do currículo da escola 
 ***
 ![LinkedIn_banner_game_designer_neon_roxo_e_azul__9_-removebg-preview](https://github.com/caoslourenco/42Projects/assets/18141491/c0495e54-5bee-405c-8002-2b8d05058657)
 
-## Fase 2 |``Ampliando horizontes``|
-
- 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); grid-template-rows: repeat(3, 150px);">
     <a href="https://github.com/CamillaLourenco/Push_swap">
         <img src="https://user-images.githubusercontent.com/18141491/213192271-8ef6cde7-4b00-4f05-aebc-24316cdfac62.png"  style="width:150px; height:150px;">
     </a>
     <a href="https://github.com/caoslourenco/Minishell">
-        <img src="https://user-images.githubusercontent.com/18141491/213192395-41225ab8-3c03-4b23-9f6e-cfaa33552a0e.png" style="width:150px; height:150px; style="width:50px; height:50px;">
+        <img src="https://github.com/caoslourenco/42Projects/assets/18141491/3eb4f909-e09e-4881-bfca-37f88a29cd8f" style="width:150px; height:150px; style="width:50px; height:50px;">
     </a>
     <a href="https://github.com/caoslourenco/Philosophers42">
-        <img src="https://user-images.githubusercontent.com/18141491/213192465-1f6c7031-4029-4f58-9214-fcad5494d2aa.png"  style="width:150px; height:150px; style="width:50px; height:50px; style="width:50px; height:50px;">
+        <img src="https://github.com/caoslourenco/42Projects/assets/18141491/0cf16450-fe54-454b-83b2-aa991f3b92ae"  style="width:150px; height:150px; style="width:50px; height:50px; style="width:50px; height:50px;">
     </a>
     <a href="https://github.com/caoslourenco/Net_practice42">
-        <img src="https://user-images.githubusercontent.com/18141491/213192604-36c22a93-2c7e-4d50-959f-1266cae52f85.png"  style="width:150px; height:150px;">
+        <img src="https://github.com/caoslourenco/42Projects/assets/18141491/1f47eda0-406f-4b0f-b65c-b800f7a60125"  style="width:150px; height:150px;">
     </a>
     <a href="https://github.com/caoslourenco/Cub3d42">
         <img src="https://user-images.githubusercontent.com/18141491/213192693-f77b0f34-bd80-46cd-9f3d-6ebc21efd16d.png"  style="width:150px; height:150px;">
