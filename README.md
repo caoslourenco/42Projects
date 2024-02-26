@@ -1,12 +1,12 @@
 ![LinkedIn_banner_game_designer_neon_roxo_e_azul__3_-removebg-preview](https://github.com/caoslourenco/42Projects/assets/18141491/a6bd5ba2-4371-4e55-8b7d-d7fb4569865a)
 
+### 🌌 Don't Panic - the Most Incredible Repository in the Galaxy |Caution: Work in progress | 
 
 
-🌌 **Caution: work in progress**
 
-<div align="left">
+<div style="text-align: justify;">
 
-In the vast expanse of the digital cosmos, where lines of code intertwine like constellations in the night sky, a brave explorer embarks on a quest of discovery. Welcome, fellow traveler, to the 42Projects repository - a celestial sanctuary amidst the vast tapestry of software engineering.
+In the vast expanse of the digital cosmos, where lines of code intertwine like constellations in the night sky, a brave explorer embarks on a quest of discovery. Welcome, fellow traveler, to the 42Projects repository - a celestial sanctuary amidst the vast tapestry of software engineering. You are about to embark on an intergalactic adventure where you will encounter breathtaking programming projects from students at [42 SP](https://www.42sp.org.br/). 42 School is a revolutionary and free programming school that uses a project-based methodology and peer learning. In this repository, you will find examples of projects from various areas such as web development, game design, machine learning, and much more. Don't forget to bring your towel and your copy of The Hitchhiker's Guide to the Galaxy, the best guide to interstellar travel. And remember: don't panic! 🚀
 
 ![42Projects](https://user-images.githubusercontent.com/18141491/211854913-bf188958-765a-4e3f-a371-8b50d4f60357.png)
 
@@ -18,9 +18,6 @@ Set sail, intrepid traveler, and chart your course through the astral wonders th
 
 </div>
 
-<div align="left">
-
-Este é um repositório destinado a abrigar os projetos do currículo da escola de engenharia de software 42 São Paulo. Aqui você encontrará meus projetos da 42 São Paulo, abrangendo uma constelação de tópicos e habilidades de engenharia de software.
 
 </div>
 
