@@ -17,15 +17,6 @@ In the vast expanse of the digital cosmos, where lines of code intertwine like c
 ***
 ![LinkedIn_banner_game_designer_neon_roxo_e_azul__7_-removebg-preview](https://github.com/caoslourenco/42Projects/assets/18141491/89c7a641-7f32-4f5a-8cca-337f4eda38ff)
 
-<p align="center">
-
-``Completo | Complete``
-</p>
-
-<p align="center">
-  <b>Completo | Complete</b>
-</p>
-
 <div align="center">
   <div style="display: grid; grid-template-columns: 1fr 1fr; grid-template-rows: repeat(2, 150px); margin: 0 auto;">
       <div style="display: flex; flex-direction: column; align-items: center;">
@@ -102,3 +93,6 @@ In the vast expanse of the digital cosmos, where lines of code intertwine like c
  
 
 -----------------------
+<p align="center">
+
+``Completo | Complete``
