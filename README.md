@@ -88,8 +88,4 @@ In the vast expanse of the digital cosmos, where lines of code intertwine like c
 </div>
  
 
- <h2> <font color="blue">Pré-requisitos</font> </h2>
-
-
-
-
+-----------------------
