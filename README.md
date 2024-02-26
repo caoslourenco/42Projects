@@ -78,6 +78,8 @@ Este é um repositório destinado a abrigar os projetos do currículo da escola 
 
 ***
 
+![LinkedIn_banner_game_designer_neon_roxo_e_azul__12_-removebg-preview](https://github.com/caoslourenco/42Projects/assets/18141491/5af393c5-6e9b-45af-8683-d4eddcc8ba7f)
+
 ## Fase 3 |``Explorando o espaço``|
 
  <div style="display: grid; grid-template-columns: repeat(2, 1fr); grid-template-rows: repeat(3, 150px);">
