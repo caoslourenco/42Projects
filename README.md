@@ -17,8 +17,8 @@ In the vast expanse of the digital cosmos, where lines of code intertwine like c
 ***
 ![LinkedIn_banner_game_designer_neon_roxo_e_azul__7_-removebg-preview](https://github.com/caoslourenco/42Projects/assets/18141491/89c7a641-7f32-4f5a-8cca-337f4eda38ff)
 ``Completo | Complete``
-<div style="display: grid; grid-template-columns: 1fr 1fr; grid-template-rows: repeat(2, 150px);">
-    <div>
+<div style="display: grid; grid-template-columns: 1fr 1fr; grid-template-rows: repeat(2, 150px); justify-content: center; align-items: center;">
+    <div style="display: flex; flex-direction: column; align-items: center;">
         <a href="https://github.com/CamillaLourenco/Libft">
             <img src="https://user-images.githubusercontent.com/18141491/213202373-98082fd7-6345-4cb7-8d93-62edeef9f4f3.png" class="img-small">
         </a>
@@ -29,7 +29,7 @@ In the vast expanse of the digital cosmos, where lines of code intertwine like c
             <img src="https://user-images.githubusercontent.com/18141491/212504189-56fcbae1-1c65-4f30-abf7-da0f0e9cd081.png" class="img-small">
         </a>
     </div>
-    <div>
+    <div style="display: flex; flex-direction: column; align-items: center;">
         <a href="https://github.com/CamillaLourenco/BornToBeRoot">
             <img src="https://user-images.githubusercontent.com/18141491/212504264-b05aba78-5907-4082-afd6-38e5359895f6.png" class="img-small">
         </a>
@@ -41,6 +41,8 @@ In the vast expanse of the digital cosmos, where lines of code intertwine like c
         </a>
     </div>
 </div>
+
+
 
 
 
