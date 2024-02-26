@@ -1,6 +1,6 @@
 ![LinkedIn_banner_game_designer_neon_roxo_e_azul__3_-removebg-preview](https://github.com/caoslourenco/42Projects/assets/18141491/a6bd5ba2-4371-4e55-8b7d-d7fb4569865a)
 
-### 🌌 Don't Panic - the Most Incredible Repository in the Galaxy | Caution : Work in progress | 
+### 🌌 Don't Panic - the Most Incredible Repository in the Galaxy  
 
 <div style="text-align: justify;">
   <small>
@@ -14,6 +14,8 @@
 
 
 </div>
+
+``|🚨 Caution: Work in progress 🚨| ``
 
 ***
 ![LinkedIn_banner_game_designer_neon_roxo_e_azul__7_-removebg-preview](https://github.com/caoslourenco/42Projects/assets/18141491/89c7a641-7f32-4f5a-8cca-337f4eda38ff)
