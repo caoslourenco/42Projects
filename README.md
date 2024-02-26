@@ -53,6 +53,7 @@ Este é um repositório destinado a abrigar os projetos do currículo da escola 
 </div>
   
 ***
+![LinkedIn_banner_game_designer_neon_roxo_e_azul__9_-removebg-preview](https://github.com/caoslourenco/42Projects/assets/18141491/c0495e54-5bee-405c-8002-2b8d05058657)
 
 ## Fase 2 |``Ampliando horizontes``|
 
