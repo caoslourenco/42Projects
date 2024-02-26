@@ -25,8 +25,7 @@ Este é um repositório destinado a abrigar os projetos do currículo da escola 
 </div>
 
 ***
-
-## Fase 1 |``Entrando em órbita``|
+![LinkedIn_banner_game_designer_neon_roxo_e_azul__7_-removebg-preview](https://github.com/caoslourenco/42Projects/assets/18141491/89c7a641-7f32-4f5a-8cca-337f4eda38ff)
 ``Completo | Complete``
 
  
