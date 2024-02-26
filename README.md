@@ -71,8 +71,6 @@ In the vast expanse of the digital cosmos, where lines of code intertwine like c
 
 ![LinkedIn_banner_game_designer_neon_roxo_e_azul__12_-removebg-preview](https://github.com/caoslourenco/42Projects/assets/18141491/5af393c5-6e9b-45af-8683-d4eddcc8ba7f)
 
-## Fase 3 |``Explorando o espaço``|
-
  <div style="display: grid; grid-template-columns: repeat(2, 1fr); grid-template-rows: repeat(3, 150px);">
     <a href="https://github.com/caoslourenco/Cpp42">
         <img src="https://user-images.githubusercontent.com/18141491/213196688-ef2831ad-d50d-4107-8ab2-69987468e460.png" style="width:150px; height:150px;">
