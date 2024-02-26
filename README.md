@@ -8,16 +8,9 @@
 
 In the vast expanse of the digital cosmos, where lines of code intertwine like constellations in the night sky, a brave explorer embarks on a quest of discovery. Welcome, fellow traveler, to the 42Projects repository - a celestial sanctuary amidst the vast tapestry of software engineering. You are about to embark on an intergalactic adventure where you will encounter breathtaking programming projects from students at [42 SP](https://www.42sp.org.br/). 42 School is a revolutionary and free programming school that uses a project-based methodology and peer learning. In this repository, you will find examples of projects from various areas such as web development, game design, machine learning, and much more. Don't forget to bring your towel and your copy of The Hitchhiker's Guide to the Galaxy, the best guide to interstellar travel. And remember: don't panic! 🚀
 
-![42Projects](https://user-images.githubusercontent.com/18141491/211854913-bf188958-765a-4e3f-a371-8b50d4f60357.png)
-
-As you journey through this cosmic repository, you will uncover a constellation of projects, each a shining star in the galaxy of my journey through the hallowed halls of 42 São Paulo. These projects, forged in the crucible of learning, bear witness to the relentless pursuit of knowledge and mastery.
-
-This repository serves as a testament to my odyssey through the 42 São Paulo software engineering curriculum - a saga spanning nebulae of topics and skills. From the humble beginnings of introductory projects to the cosmic challenges of advanced endeavors, each project illuminates a different facet of the vast universe of software engineering.
-
-Set sail, intrepid traveler, and chart your course through the astral wonders that await within. Let these projects be your guiding stars as you navigate the cosmic currents of knowledge, exploring new galaxies and unraveling the mysteries of software engineering.
-
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/18141491/211854913-bf188958-765a-4e3f-a371-8b50d4f60357.png" alt="42Projects">
 </div>
-
 
 </div>
 
