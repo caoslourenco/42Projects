@@ -18,7 +18,7 @@ In the vast expanse of the digital cosmos, where lines of code intertwine like c
 ![LinkedIn_banner_game_designer_neon_roxo_e_azul__7_-removebg-preview](https://github.com/caoslourenco/42Projects/assets/18141491/89c7a641-7f32-4f5a-8cca-337f4eda38ff)
 ``Completo | Complete``
 
- <div style="display: grid; grid-template-columns: repeat(2, 1fr); grid-template-rows: repeat(3, 150px);">
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); grid-template-rows: repeat(2, 150px);">
     <a href="https://github.com/CamillaLourenco/Libft">
         <img src="https://user-images.githubusercontent.com/18141491/213202373-98082fd7-6345-4cb7-8d93-62edeef9f4f3.png" class="img-small">
     </a>
@@ -38,6 +38,7 @@ In the vast expanse of the digital cosmos, where lines of code intertwine like c
         <img src="https://user-images.githubusercontent.com/18141491/212504370-03c9f065-dc90-4b55-9605-d8f73f4b3720.png" class="img-small">
     </a>
 </div>
+
 
   
 ***
