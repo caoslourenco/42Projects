@@ -40,6 +40,7 @@ In the vast expanse of the digital cosmos, where lines of code intertwine like c
 </div>
 
 
+
   
 ***
 ![LinkedIn_banner_game_designer_neon_roxo_e_azul__9_-removebg-preview](https://github.com/caoslourenco/42Projects/assets/18141491/c0495e54-5bee-405c-8002-2b8d05058657)
