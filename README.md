@@ -74,12 +74,11 @@
 
 ![LinkedIn_banner_game_designer_neon_roxo_e_azul__12_-removebg-preview](https://github.com/caoslourenco/42Projects/assets/18141491/5af393c5-6e9b-45af-8683-d4eddcc8ba7f)
 
- <div style="display: grid; grid-template-columns: repeat(2, 1fr); grid-template-rows: repeat(3, 150px);">
+
+<div align="center">
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); grid-template-rows: repeat(3, 150px); justify-content: center; align-items: center; text-align: center;">
     <a href="https://github.com/caoslourenco/Cpp42">
         <img src="https://user-images.githubusercontent.com/18141491/213196688-ef2831ad-d50d-4107-8ab2-69987468e460.png" style="width:150px; height:150px;">
-    </a>
-    <a href="https://github.com/CamillaLourenco/42Projects/tree/main/count">
-        <img src="https://user-images.githubusercontent.com/18141491/213196780-1752faa0-3fd7-4cf8-bd58-3176cce9b082.png" style="width:150px; height:150px;">
     </a>
     <a href="https://github.com/caoslourenco/Inception42">
         <img src="https://user-images.githubusercontent.com/18141491/213196884-8813aa1a-7c4e-4ad6-b770-1e707d854e5c.png"  style="width:150px; height:150px;">
@@ -91,7 +90,7 @@
         <img src="https://user-images.githubusercontent.com/18141491/213197064-bd602313-f363-432d-8852-c552d6db0a48.png"  style="width:150px; height:150px;">
     </a>
 </div>
- 
+
 
 -----------------------
 <p align="center">
