@@ -96,3 +96,8 @@
 <p align="center">
 
 ``Completo | Complete``
+ 
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=clourenc&label=Otters+Space+%F0%9F%A6%A6&color=gray" alt="Otters Space 🦦"/>
+</p>
