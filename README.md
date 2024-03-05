@@ -99,5 +99,5 @@
  
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=clopurenc&label=Otters+Space+%F0%9F%A6%A6&color=gray" alt="Otters Space 🦦"/>
+  <img src="https://komarev.com/ghpvc/?username=clourenco&label=Otters+Space+%F0%9F%A6%A6&color=gray" alt="Otters Space 🦦"/>
 </p>
