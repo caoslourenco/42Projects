@@ -66,7 +66,7 @@
         <img src="https://github.com/caoslourenco/42Projects/assets/18141491/1f47eda0-406f-4b0f-b65c-b800f7a60125"  style="width:150px; height:150px;">
     </a>
     <a href="https://github.com/caoslourenco/Cub3d42">
-        <img src="https://user-images.githubusercontent.com/18141491/213192693-f77b0f34-bd80-46cd-9f3d-6ebc21efd16d.png"  style="width:150px; height:150px;">
+        <img src="https://github.com/caoslourenco/42Projects/assets/18141491/ad2d4239-1879-4efd-b618-a732dd25597a"  style="width:150px; height:150px;">
     </a>
 </div>
 
