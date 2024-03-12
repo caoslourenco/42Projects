@@ -50,30 +50,29 @@
 
   
 ***
-![LinkedIn_banner_game_designer_neon_roxo_e_azul__9_-removebg-preview](https://github.com/caoslourenco/42Projects/assets/18141491/c0495e54-5bee-405c-8002-2b8d05058657)
+ ![LinkedIn banner game designer neon roxo e azul](https://github.com/caoslourenco/42Projects/assets/18141491/a0be7563-1e57-4332-aa5c-43492d7050c4)
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); grid-template-rows: repeat(3, 150px);">
     <a href="https://github.com/CamillaLourenco/Push_swap">
-        <img src="https://user-images.githubusercontent.com/18141491/213192271-8ef6cde7-4b00-4f05-aebc-24316cdfac62.png"  style="width:150px; height:150px;">
+        <img src="https://github.com/caoslourenco/42Projects/assets/18141491/1385637b-76b2-4cd3-af56-9ee9e63efbc7"  style="width:150px; height:150px;">
     </a>
     <a href="https://github.com/caoslourenco/Minishell">
-        <img src="https://github.com/caoslourenco/42Projects/assets/18141491/3eb4f909-e09e-4881-bfca-37f88a29cd8f" style="width:150px; height:150px; style="width:50px; height:50px;">
+        <img src="https://github.com/caoslourenco/42Projects/assets/18141491/a0209193-ea83-41a6-bc85-099576aa46a9" style="width:150px; height:150px; style="width:50px; height:50px;">
     </a>
     <a href="https://github.com/caoslourenco/Philosophers42">
-        <img src="https://github.com/caoslourenco/42Projects/assets/18141491/0cf16450-fe54-454b-83b2-aa991f3b92ae"  style="width:150px; height:150px; style="width:50px; height:50px; style="width:50px; height:50px;">
+        <img src="https://github.com/caoslourenco/42Projects/assets/18141491/22984416-72bb-49e3-9487-07e4ffb05fae"  style="width:150px; height:150px; style="width:50px; height:50px; style="width:50px; height:50px;">
     </a>
     <a href="https://github.com/caoslourenco/Net_practice42">
-        <img src="https://github.com/caoslourenco/42Projects/assets/18141491/1f47eda0-406f-4b0f-b65c-b800f7a60125"  style="width:150px; height:150px;">
+        <img src="https://github.com/caoslourenco/42Projects/assets/18141491/a98c722b-a76d-42d3-bfa5-ac262fd38451"  style="width:150px; height:150px;">
     </a>
     <a href="https://github.com/caoslourenco/Cub3d42">
-        <img src="https://github.com/caoslourenco/42Projects/assets/18141491/ad2d4239-1879-4efd-b618-a732dd25597a"  style="width:140px; height:140px;">
+        <img src="https://github.com/caoslourenco/42Projects/assets/18141491/ad2d4239-1879-4efd-b618-a732dd25597a"  style="width:150px; height:150px;">
     </a>
 </div>
 
 ***
 
 ![LinkedIn_banner_game_designer_neon_roxo_e_azul__12_-removebg-preview](https://github.com/caoslourenco/42Projects/assets/18141491/5af393c5-6e9b-45af-8683-d4eddcc8ba7f)
-
 
 <div align="center">
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); grid-template-rows: repeat(3, 150px); justify-content: center; align-items: center; text-align: center;">
