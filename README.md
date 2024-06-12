@@ -12,9 +12,7 @@
   <img src="https://user-images.githubusercontent.com/18141491/211854913-bf188958-765a-4e3f-a371-8b50d4f60357.png" alt="42Projects">
 </div>
 
-
 </div>
-
 ``|🚨 Caution: Work in progress 🚨| ``
 
 ***
@@ -51,7 +49,7 @@
   
 ***
  ![LinkedIn banner game designer neon roxo e azul](https://github.com/caoslourenco/42Projects/assets/18141491/a0be7563-1e57-4332-aa5c-43492d7050c4)
-
+<div align="center">
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); grid-template-rows: repeat(3, 150px);">
     <a href="https://github.com/CamillaLourenco/Push_swap">
         <img src="https://github.com/caoslourenco/42Projects/assets/18141491/1385637b-76b2-4cd3-af56-9ee9e63efbc7"  style="width:150px; height:150px;">
@@ -77,10 +75,10 @@
 <div align="center">
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); grid-template-rows: repeat(3, 150px); justify-content: center; align-items: center; text-align: center;">
     <a href="https://github.com/caoslourenco/Cpp42">
-        <img src="https://user-images.githubusercontent.com/18141491/213196688-ef2831ad-d50d-4107-8ab2-69987468e460.png" style="width:150px; height:150px;">
+        <img src="https://github.com/caoslourenco/42Projects/assets/18141491/e23467a2-e422-4b45-864d-58e3b19360e7" style="width:150px; height:150px;">
     </a>
     <a href="https://github.com/caoslourenco/Inception42">
-        <img src="https://user-images.githubusercontent.com/18141491/213196884-8813aa1a-7c4e-4ad6-b770-1e707d854e5c.png"  style="width:150px; height:150px;">
+        <img src="https://github.com/caoslourenco/42Projects/assets/18141491/589bffd3-5067-4b28-92b4-3ab7d29aedb3"  style="width:150px; height:150px;">
     </a>
     <a href="https://github.com/caoslourenco/Webserv42">
         <img src="https://user-images.githubusercontent.com/18141491/213196935-100a4ecd-109c-4405-a431-c8632ec8e544.png"  style="width:150px; height:150px;">
@@ -89,9 +87,14 @@
         <img src="https://user-images.githubusercontent.com/18141491/213197064-bd602313-f363-432d-8852-c552d6db0a48.png"  style="width:150px; height:150px;">
     </a>
 </div>
-
-
------------------------
+  
+-------------------------
+``|🤝 Collaboration & Service 🏅| ``
+<div style="display: flex; justify-content: center; align-items: center;">
+    <img src="https://github.com/caoslourenco/42Projects/assets/18141491/9a8876a5-963e-4bae-bb01-f03ab2ea604c" alt="evaluationh" width="120"/>
+    <img src="https://github.com/caoslourenco/42Projects/assets/18141491/e359a825-fcbe-4411-a432-2142cda799b7" alt="eventse" width="120"/>
+</div>
+-
 <p align="center">
 
 ``Completo | Complete``
