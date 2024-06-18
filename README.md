@@ -82,7 +82,7 @@
         <img src="https://github.com/caoslourenco/42Projects/assets/18141491/589bffd3-5067-4b28-92b4-3ab7d29aedb3"  style="width:150px; height:150px;">
     </a>
     <a href="https://github.com/EmmanuelTomiyoshi/webserver">
-        <img src="https://user-images.githubusercontent.com/18141491/213196935-100a4ecd-109c-4405-a431-c8632ec8e544.png"  style="width:150px; height:150px;">
+        <img src="https://github.com/caoslourenco/42Projects/assets/18141491/c37cb25c-8e40-498d-8a94-60ac9bc1fa8c" style="width:150px; height:150px;">
     </a>
     <a href="https://github.com/tomatte/ft_transcendence">
         <img src="https://user-images.githubusercontent.com/18141491/213197064-bd602313-f363-432d-8852-c552d6db0a48.png"  style="width:150px; height:150px;">
